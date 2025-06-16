@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on a TypeScript application called DevsLink.<br><br>I'm looking to collaborate on open-source projects that I could be helpful with.<br><br>I'm looking for help with mentorship and getting hired.<br><br>Ask me about React, Node, Express, and fast shipping software development.<br><br>Fun Fact: I live in the most beautiful country in the world.
+I'm currently working on a social media platform for students of my collage called FERConnect.<br><br>I'm looking to collaborate on open-source projects that I could be helpful with.<br><br>I'm looking for help with mentorship and getting hired.<br><br>Ask me about React, Node, Express, and fast shipping software development.<br><br>Fun Fact: I live in the most beautiful country in the world.
 
 
 ## 🌐 Socials:
