@@ -1,6 +1,6 @@
 # 💫 About Me
 
-I'm currently working on a social media platform for students of my collage called FERConnect.<br><br>I'm looking to collaborate on open-source projects that I could be helpful with.<br><br>I'm looking for help with mentorship and getting hired.<br><br>Ask me about React, Node, Express, and fast shipping software development.<br><br>Fun Fact: I live in the most beautiful country in the world.
+I'm currently working on a social media platform for students of my collage called FERConnect.<br><br>I'm looking to collaborate on open-source projects that I could be helpful with.<br><br>I'm looking for help with mentorship and getting hired.<br><br>Ask me about React, Node, Express, and fast shipping software development.<br>
 
 ## 🌐 Socials
 
@@ -13,7 +13,6 @@ I'm currently working on a social media platform for students of my collage call
 # 📊 GitHub Stats
 
 ![](https://nirzak-streak-stats.vercel.app/?user=ziko1905&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ziko1905&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
 
