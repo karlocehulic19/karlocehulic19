@@ -12,7 +12,7 @@ I'm currently working on a social media platform for students of my collage call
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ziko1905&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=ziko1905&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ziko1905&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
