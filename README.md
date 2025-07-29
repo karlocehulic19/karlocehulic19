@@ -40,11 +40,6 @@ I'm currently working on a social media platform for students of my collage call
 
 ![](https://nirzak-streak-stats.vercel.app/?user=ziko1905&theme=dark&hide_border=false)<br/>
 
-### ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=ziko1905&icon=0&color=0)](https://visitcount.itsvg.in)
 
