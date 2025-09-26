@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 I'm Karlo Čehulić</h1>
 
-# 💫 About Me
+# About Me
 I'm currently working on a social media platform for students of my college called FERConnect.<br><br>I'm looking to collaborate on open-source projects that I could be helpful with.<br><br>I'm looking for help with mentorship.<br><br>Ask me about React, Node, Express, SpringBoot, Java, and fast shipping software development.<br>
 
 ## 🌐 Connect with me
