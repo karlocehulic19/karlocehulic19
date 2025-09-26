@@ -42,6 +42,6 @@ I'm currently working on a social media platform for students of my college call
 ![](https://nirzak-streak-stats.vercel.app/?user=karlocehulic19&theme=dark&hide_border=false)<br/>
 
 
-[![](https://visitcount.itsvg.in/api?id=ziko1905&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=karlocehulic19&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
