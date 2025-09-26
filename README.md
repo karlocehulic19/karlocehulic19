@@ -39,7 +39,7 @@ I'm currently working on a social media platform for students of my college call
 
 # 📊 GitHub Stats
 
-![](https://nirzak-streak-stats.vercel.app/?user=karlocehulic19&theme=dark&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=karlocehulic19&theme=dark&hide_border=true)<br/>
 
 
 [![](https://visitcount.itsvg.in/api?id=karlocehulic19&icon=0&color=0)](https://visitcount.itsvg.in)
