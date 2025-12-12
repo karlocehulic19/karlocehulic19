@@ -5,7 +5,7 @@ I'm currently working on a social media platform for students of my college call
 
 ## 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlo-%C4%8Dehuli%C4%87-65337820b/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karlo-cehulic/)
 
 # 💻 Tech Stack
 
