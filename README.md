@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Karlo Čehulić</h1>
 
 # About Me
-I'm currently working on a social media platform for students of my college called FERConnect.<br><br>I'm looking to collaborate on open-source projects that I could be helpful with.<br><br>In my free time, I also enjoy doing [LeetCode](https://leetcode.com/u/Karlo19/)<br><br>Ask me about TypeScript, React, Node, Express, SpringBoot, Java, and fast shipping software development.<br>
+I'm currently working on a code runner platform for students of my college called AlgoFER.<br><br>I'm looking to collaborate on open-source projects that I could be helpful with.<br><br>In my free time, I also enjoy doing [LeetCode](https://leetcode.com/u/Karlo19/)<br><br>Ask me about TypeScript, React, Node, Express, SpringBoot, Java, and fast shipping software development.<br>
 
 ## 🌐 Connect with me
 
